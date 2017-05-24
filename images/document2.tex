@@ -1,0 +1,57 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{tikz}
+
+\usetikzlibrary{decorations.text}
+\usetikzlibrary{snakes,matrix}
+\usetikzlibrary{arrows}
+
+
+\colorlet{MyColorOne}{blue!50}
+
+\newcommand{\lightercolor}[3]{% Reference Color, Percentage, New Color Name
+	\colorlet{#3}{#1!#2!white}
+}
+
+\newcommand{\darkercolor}[3]{% Reference Color, Percentage, New Color Name
+	\colorlet{#3}{#1!#2!black}
+}
+
+
+\newcommand{\arcarrow}[9]% inner radius, middle radius, outer radius, start angle, end angle, tip protusion angle, options, text
+{   \pgfmathsetmacro{\rin}{#1}
+	\pgfmathsetmacro{\rmid}{#2}
+	\pgfmathsetmacro{\rout}{#3}
+	\pgfmathsetmacro{\astart}{#4}
+	\pgfmathsetmacro{\aend}{#5}
+	\pgfmathsetmacro{\atip}{#6}
+	\filldraw[#7] (\astart:\rin) arc 
+	(\astart:\aend:\rin) -- 
+	(\aend-\atip:\rmid) -- 
+	(\aend:\rout) arc 
+	(\aend:\astart:\rout) -- 
+	(\astart-\atip:\rmid) -- cycle;
+	\path[decoration={text along path, text={#8},#9, text align={align=center}, raise=-0.5ex},decorate] (\astart-\atip:\rmid) arc (\astart-\atip:\aend-\atip:\rmid);
+}
+\usepackage[width=1.00cm, height=0.00cm, left=2.00cm, right=2.00cm, top=3.00cm, bottom=3.00cm]{geometry}
+\author{Mariano Mendez and  Fernando Tinetti}
+\begin{document}
+	
+	\begin{tikzpicture}
+	
+	\node (Ciclo) at (0,0) {
+		\begin{tikzpicture} 
+		\filldraw[even odd rule,white] circle (3.8) circle (3.2);
+		\arcarrow{3}{3.5}{4}{10}{90}{5}{blue!10,draw=blue!30!white,very thick}{}{reverse path}
+		\arcarrow{3}{3.5}{4}{100}{180}{5}{blue!30,draw=blue!30!white,very thick}{}{reverse path}
+		\arcarrow{3}{3.5}{4}{190}{270}{5}{blue!60,draw=blue!30!white,very thick}{}{reverse path}
+		\arcarrow{3}{3.5}{4}{280}{360}{5}{blue,draw=blue!30!white,very thick}{}{reverse path}
+		\end{tikzpicture}
+	};
+\end{tikzpicture}
+\end{document}
