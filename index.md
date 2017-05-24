@@ -13,7 +13,7 @@ Al Grupo de Investigación en Ciencias Informáticas (g**R**upo d**E** **INV**es
 * Refactoring.
 * High Performance Computing.
 * Métricas de Código Fuente.
-* Internert de las Cosas.
+* Internet de las Cosas.
 * Ingeniería de Software.
 * Sistemas Operativos.
 * Sistemas Distribuidos.
