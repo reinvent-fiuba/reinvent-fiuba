@@ -8,7 +8,7 @@ hide_header_link: true
 
 ¡Bienvenidos! 
 
-Al Grupo de Investigación en Ciencias Informáticas (g**R**upo d**E** **INV**esticgación en vi**E**ncias informá**T**icas). Un grupo de apasionados que nos nuclea una única temática **la Informática**. Las ramas actuales de investigación se centran en:
+Al Grupo de Investigación en Ciencias Informáticas (g**R**upo d**E** **INV**estigación en Ci**E**ncias informá**T**icas). Un grupo de apasionados que nos nuclea una única temática **la Informática**. Las ramas actuales de investigación se centran en:
 
 * Refactoring.
 * High Performance Computing.
