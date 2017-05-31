@@ -8,7 +8,7 @@ hide_header_link: true
 
 ¡Bienvenidos! 
 
-Al Grupo de Investigación en Ciencias Informáticas (g**R**upo d**E** **INV**estigación en Ci**E**ncias informá**T**icas). Un grupo de apasionados que nos nuclea una única temática **la Informática**. Las ramas actuales de investigación se centran en:
+Al Grupo de Investigación en Ciencias Informáticas (g**R**upo d**E** **INV**estigación en ci**E**ncias i**N**formá**T**icas). Un grupo de apasionados que nos nuclea una única temática **la Informática**. Las ramas actuales de investigación se centran en:
 
 * Refactoring.
 * High Performance Computing.
@@ -19,11 +19,8 @@ Al Grupo de Investigación en Ciencias Informáticas (g**R**upo d**E** **INV**es
 * Sistemas Distribuidos.
 
 ¿Cómo podes participar?  
-Si sos alumno podes plantear tu trabajo o tesina de final de carrera en el ámbito del grupo. Si sos docente y te interesa desarrollar y profundizar tus conocimientos en algunos de los temas con el fin de generar un aporte a la disciplina, si te interesa realizar un postgrado en el area, o simplemente queres divertirte.  
+Si sos alumno podés plantear tu trabajo o tesina de final de carrera en el ámbito del grupo. Si sos docente y te interesa desarrollar y profundizar tus conocimientos en algunos de los temas con el fin de generar un aporte a la disciplina, si te interesa realizar un postgrado en el área, o simplemente querés divertirte.  
 
-No necesitas usar bata blanca, tener un C.I. 220 ...  No fijamos limites de edad, sexo, religion, etc. somos fiuba-friendly.  
+No necesitas usar bata blanca, tener un C.I. 220 ...  No fijamos límites de edad, sexo, religión, etc. somos fiuba-friendly.  
 
 Todo aquel que desee participar puede hacerlo mandando un mail a **marianomendez@fi.uba.ar**
-
-
-
