@@ -21,7 +21,7 @@ Mariano, Mendez; Di Gregori, María Cristina 2014 . **Fortran Refactoring For Le
 
 Mariano, Mendez; Fernando G. Tinetti; Feierherd, Guillermo Eugenio; Pesado, Patricia; Spositto, Osvaldo Mario. **Integrating Software Metrics For Fortran Legacy Into An Ide**. Computer Science & Technology Series Xx Argentine Congress Of Computer Science. Selected Papers. La Plata: Editorial De La Universidad Nacional De La Plata (Edulp). 2015. P126 - 134. Isbn 978-987-1985-71-5
 
-### Trabajos En Eventos Cientifico-Tecnologicos Publicados:
+### Trabajos En Eventos Científico-Tecnológicos Publicados:
 
 De Giusti Armando; Fernando G. Tinetti; Naiouf, Marcelo; Chichizola Franco; De Giusti, Laura Cristina; Villagarcía Wanza, Horacio A.; Montezanti, Diego Miguel; Encinas, Diego; Pousa, Adrián; Rodriguez, Ismael P.; Eguren Sebastián; Iglesias, Luciano; Mariano, Mendez. **Arquitecturas Multiprocesador En Hpc: Software, Métricas Y Aplicaciones**. Argentina. Entre Rios. 2016. Libro. Artículo Completo. Workshop. Xviii Workshop De Investigadores En Ciencias De La Computación (Wicc 2016, Entre Ríos, Argentina).
 Universidad Nacional De Entre Ríos

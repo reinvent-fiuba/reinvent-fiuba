@@ -3,21 +3,32 @@ layout: page
 title: Integrantes
 permalink: /Integrantes/
 ---
-* Director: Dr Mariano Méndez.   
-  _Profesor Adjunto dedicacion parcial de la Facultade de Ingeniería de la Universidad de Buenos Aires. Ayudante Diplomado de la Facultad de Informática de la Universidad de La Plata._  
+* Director: Dr. Mariano Méndez.   
+  _Profesor Adjunto dedicación parcial de la Faculta de de Ingeniería de la Universidad de Buenos Aires._     
+  _Ayudante Diplomado de la Facultad de Informática de la Universidad de La Plata._  
 
-* Lic. Manuel Camejo._Jefe de Trabajos Practicos de la Facultade de Ingeniería de la Universidad de Buenos Aires_.   
+* Investigador Externo: Dr. Fernando G. Tinetti.  
+  _Profesor Titular - CIC . Univesidad Nacional de La PLata._   
 
-* Lucas Pandolfo._Estudiante de Ingeniería Informática_   
+* Lic. Manuel Camejo.  
+  _Jefe de Trabajos Prácticos de la Facultade de Ingeniería de la Universidad de Buenos Aires_.   
 
-* Juan Manuel Alonso._Estudiante de Ingeniería Informática_   
+* Lucas Pandolfo.  
+  _Ayudante de Segunda de la Facultad de Ingenieriía de la Universidad de Buenos Aires._  
+  _Estudiante de Ingeniería Informática._   
 
-* Carlos Desseno._Estudiante de Ingeniería Informática_   
+* Juan Manuel Alonso._Estudiante de Ingeniería Informática._   
 
-* Kevin Martín Lew._Estudiante de Ingeniería Informática_   
+* Carlos Desseno._Estudiante de Ingeniería Informática._   
 
-* Natalia Giselle Bartolomé._Estudiante de Ingeniería Informática_   
+* Kevin Martín Lew._Estudiante de Ingeniería Informática._   
 
-* Adrián Martín Durán._Ayudante de Segunda de la Facultade de Ingeniería de la Universidad de Buenos Aires.Estudiante de ingeniería Informática_  
+* Natalia Giselle Bartolomé._Estudiante de Ingeniería Informática._   
 
-* Daniel Andrés Obon._Estudiante de ingeniería Informática_
+* Adrián Martín Durán.  
+  _Ayudante de Segunda de la Facultade de Ingeniería de la Universidad de Buenos Aires._  
+  _Estudiante de ingeniería Informática_  
+
+* Daniel Andrés Obon._Estudiante de Ingeniería Informática._  
+
+* Ezequiel Pérez Dittler._Estudiante de Ingenieria Informática_  

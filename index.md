@@ -18,7 +18,7 @@ Al Grupo de Investigación en Ciencias Informáticas (g**R**upo d**E** **INV**es
 * Sistemas Operativos.
 * Sistemas Distribuidos.
 
-¿Cómo podes participar?  
+¿Cómo podés participar?  
 Si sos alumno podés plantear tu trabajo o tesina de final de carrera en el ámbito del grupo. Si sos docente y te interesa desarrollar y profundizar tus conocimientos en algunos de los temas con el fin de generar un aporte a la disciplina, si te interesa realizar un postgrado en el área, o simplemente querés divertirte.  
 
 No necesitas usar bata blanca, tener un C.I. 220 ...  No fijamos límites de edad, sexo, religión, etc. somos fiuba-friendly.  
