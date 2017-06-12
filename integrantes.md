@@ -10,8 +10,14 @@ permalink: /Integrantes/
 * Investigador Externo: Dr. Fernando G. Tinetti.  
   _Profesor Titular - CIC . Univesidad Nacional de La PLata._   
 
+* Ing. Leandro Ferigno.
+  _Jefe de Trabajos Prácticos con Funciones de Pofesor Adjunto_  
+  _Facultade de Ingeniería de la Universidad de Buenos Aires_.   
+  Teoría de lenguajes / Teoría de la programación   
+  
 * Lic. Manuel Camejo.  
   _Jefe de Trabajos Prácticos de la Facultade de Ingeniería de la Universidad de Buenos Aires_.   
+  Algortimos y Programación I
 
 * Lucas Pandolfo.  
   _Ayudante de Segunda de la Facultad de Ingenieriía de la Universidad de Buenos Aires._  
