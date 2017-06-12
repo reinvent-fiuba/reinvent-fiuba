@@ -23,18 +23,18 @@ permalink: /Integrantes/
   _Ayudante de Segunda de la Facultad de Ingenieriía de la Universidad de Buenos Aires._  
   _Estudiante de Ingeniería Informática._   
 
-* Juan Manuel Alonso._Estudiante de Ingeniería Informática._   
+* Juan Manuel Alonso. _Estudiante de Ingeniería Informática._   
 
-* Carlos Desseno._Estudiante de Ingeniería Informática._   
+* Carlos Desseno. _Estudiante de Ingeniería Informática._   
 
-* Kevin Martín Lew._Estudiante de Ingeniería Informática._   
+* Kevin Martín Lew. _Estudiante de Ingeniería Informática._   
 
-* Natalia Giselle Bartolomé._Estudiante de Ingeniería Informática._   
+* Natalia Giselle Bartolomé. _Estudiante de Ingeniería Informática._   
 
 * Adrián Martín Durán.  
   _Ayudante de Segunda de la Facultade de Ingeniería de la Universidad de Buenos Aires._  
   _Estudiante de ingeniería Informática_  
 
-* Daniel Andrés Obon._Estudiante de Ingeniería Informática._  
+* Daniel Andrés Obon. _Estudiante de Ingeniería Informática._  
 
-* Ezequiel Pérez Dittler._Estudiante de Ingenieria Informática_  
+* Ezequiel Pérez Dittler. _Estudiante de Ingenieria Informática_  
