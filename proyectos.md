@@ -15,7 +15,7 @@ permalink: /Investigación/
 
 ### Sistemas Distribuidos
   
-* **Proyecto**: Algortimos distribuidos sobre redes de microcontroladores
+* **Proyecto**: Algoritmos distribuidos sobre redes de microcontroladores
 
 
 
