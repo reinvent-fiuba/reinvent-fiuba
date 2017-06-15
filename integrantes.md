@@ -37,5 +37,5 @@ permalink: /Integrantes/
 
 * Daniel Andrés Obon. _Estudiante de Ingeniería Informática._  
 
-* Ezequiel Pérez Dittler.  
-  _Estudiante de Ingenieria Informática_  
+* Ezequiel Pérez Dittler.
+  _Estudiante de Ingeniería Informática_  
