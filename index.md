@@ -13,7 +13,7 @@ Al Grupo de Investigación en Ciencias Informáticas (g**R**upo d**E** **INV**es
 * Refactoring.
 * High Performance Computing.
 * Métricas de Código Fuente.
-* Internet de las Cosas.
+* Internet de las Cosas (IoT).
 * Ingeniería de Software.
 * Sistemas Operativos.
 * Sistemas Distribuidos.
@@ -21,6 +21,6 @@ Al Grupo de Investigación en Ciencias Informáticas (g**R**upo d**E** **INV**es
 ¿Cómo podés participar?  
 Si sos alumno podés plantear tu trabajo o tesina de final de carrera en el ámbito del grupo. Si sos docente y te interesa desarrollar y profundizar tus conocimientos en algunos de los temas con el fin de generar un aporte a la disciplina, si te interesa realizar un postgrado en el área, o simplemente querés divertirte.  
 
-No necesitas usar bata blanca, tener un C.I. 220 ...  No fijamos límites de edad, sexo, religión, etc. somos fiuba-friendly.  
+No necesitás usar bata blanca, tener un C.I. 220 ...  No fijamos límites de edad, sexo, religión, etc. somos fiuba-friendly.
 
 Todo aquel que desee participar puede hacerlo mandando un mail a **marianomendez@fi.uba.ar**
