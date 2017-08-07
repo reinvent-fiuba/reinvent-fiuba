@@ -3,7 +3,7 @@ layout: page
 title: Integrantes
 permalink: /Integrantes/
 ---
-* Director: Dr. Mariano Méndez.   
+* Director: Dr. Mariano Méndez <marianomendez@gmail.com>   
   _Profesor Adjunto dedicación parcial de la Facultad de Ingeniería de la Universidad de Buenos Aires._     
   _Ayudante Diplomado de la Facultad de Informática de la Universidad de La Plata._  
 
@@ -14,7 +14,10 @@ permalink: /Integrantes/
   _Jefe de Trabajos Prácticos con Funciones de Pofesor Adjunto_  
   _Facultad de Ingeniería de la Universidad de Buenos Aires_.   
   Teoría de lenguajes / Teoría de la programación   
-  
+
+* Ing. Pablo D. Roca <pablodroca@gmail.com> 
+  _FIUBA - Laboratorio de Fluidodinámica (LFD)_  
+
 * Lic. Manuel Camejo.  
   _Jefe de Trabajos Prácticos de la Facultad de Ingeniería de la Universidad de Buenos Aires_.   
   Algoritmos y Programación I
