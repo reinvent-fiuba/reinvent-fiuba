@@ -22,7 +22,13 @@ permalink: /Integrantes/
   _Jefe de Trabajos Prácticos de la Facultad de Ingeniería de la Universidad de Buenos Aires_.   
   Algoritmos y Programación I
 
-* Lucas Pandolfo.  
+* Ing. Adrián Martín Durán.  
+  _Ayudante de Segunda de la Facultad de Ingeniería de la Universidad de Buenos Aires._  
+  _Estudiante de Ingeniería Informática_  
+
+* Ing. Daniel Andrés Obon. _Estudiante de Ingeniería Informática._  
+
+*  Lucas Pandolfo.  
   _Ayudante de Segunda de la Facultad de Ingeniería de la Universidad de Buenos Aires._
   _Estudiante de Ingeniería Informática._   
 
@@ -33,12 +39,6 @@ permalink: /Integrantes/
 * Kevin Martín Lew. _Estudiante de Ingeniería Informática._   
 
 * Natalia Giselle Bartolomé. _Estudiante de Ingeniería Informática._   
-
-* Adrián Martín Durán.  
-  _Ayudante de Segunda de la Facultad de Ingeniería de la Universidad de Buenos Aires._  
-  _Estudiante de Ingeniería Informática_  
-
-* Daniel Andrés Obon. _Estudiante de Ingeniería Informática._  
 
 * Ezequiel Pérez Dittler.
   _Estudiante de Ingeniería Informática_  
