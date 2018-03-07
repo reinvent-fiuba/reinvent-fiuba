@@ -12,7 +12,7 @@ permalink: /Integrantes/
 
 * Gustavo Fernández Hofer 
   _MBA - IAE Business School (2010)_
-- _Ingeniero Industrial - UBA (2004)_
+  _Ingeniero Industrial - UBA (2004)_
 
 * Ing. Leandro Ferrigno.
   _Jefe de Trabajos Prácticos con Funciones de Pofesor Adjunto_  
