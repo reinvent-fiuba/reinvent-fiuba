@@ -16,10 +16,11 @@ permalink: /Investigación/
 ### Sistemas Distribuidos
   
 * **Proyecto**: Algoritmos distribuidos sobre redes de microcontroladores
-
+[página del proyecto](/proyectos/onro/onro.md)
 
 
 ### Didáctica de la Programación
   
 * **Proyecto**: Plataforma de Aprendizaje utilizando Gamificación  
    [RolePlayLearn](http://rpl.algoritmos7540mendez.tk/)
+   [página del proyecto](/proyectos/RolePlayLearn/roleplaylearn.md)

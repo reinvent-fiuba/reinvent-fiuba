@@ -17,7 +17,7 @@ Autores: Natalia Giselle Bartolomé, Adrián Martín Durán, Daniel Andrés Obon
 
 ### Tesinas
 
-* **Elisitación de Requerimientos a partir de Lenguaje Natural**: El trabajo propuesto consiste en aplicar las técnicas existentes de Elicitación de Requerimientos a un sistema de procesamiento de lenguaje natural con el fin de asistir al ingeniero en su tarea de extraer requerimientos funcionales de la descripción textual de un sistema.  
+* **Elicitación de Requerimientos a partir de Lenguaje Natural**: El trabajo propuesto consiste en aplicar las técnicas existentes de Elicitación de Requerimientos a un sistema de procesamiento de lenguaje natural con el fin de asistir al ingeniero en su tarea de extraer requerimientos funcionales de la descripción textual de un sistema.  
 Autor: Lucas Pandolfo.   
 **en curso** 
 
