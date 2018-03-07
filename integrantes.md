@@ -10,6 +10,10 @@ permalink: /Integrantes/
 * Investigador Externo: Dr. Fernando G. Tinetti.  
   _Profesor Titular - CIC . Univesidad Nacional de La PLata._   
 
+* Gustavo Fernández Hofer 
+  _MBA - IAE Business School (2010)_
+- _Ingeniero Industrial - UBA (2004)_
+
 * Ing. Leandro Ferrigno.
   _Jefe de Trabajos Prácticos con Funciones de Pofesor Adjunto_  
   _Facultad de Ingeniería de la Universidad de Buenos Aires_.   
@@ -34,9 +38,9 @@ permalink: /Integrantes/
 
 * Juan Manuel Alonso. _Estudiante de Ingeniería Informática._   
 
-* Carlos Desseno. _Estudiante de Ingeniería Informática._   
+* Ing. Carlos Desseno.    
 
-* Kevin Martín Lew. _Estudiante de Ingeniería Informática._   
+* Ing. Kevin Martín Lew.    
 
 * Natalia Giselle Bartolomé. _Estudiante de Ingeniería Informática._   
 

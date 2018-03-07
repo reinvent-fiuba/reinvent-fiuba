@@ -30,4 +30,6 @@ La Implementación:
 El informe del trabajo puede descargarse de [Informe](./informe.pdf)  
 La presentación: [Presentación](/proyectos/onro/informe.pdf)  
 
-Este trajo tine futuras lineas de investigación abiertas en REINVENT-fiuba (Grupo de Inertigación en Ciencias Informáticas), contactanos!!!!. 
+La Publicación en IEEE: [Distributed Algorithm on IoT Devices: Bully Leader Election](/proyectos/onro/IoTLeader.pdf)
+
+Este trajo tiene futuras lineas de investigación abiertas en REINVENT-fiuba (Grupo de Inertigación en Ciencias Informáticas), contactanos!!!!. 

@@ -3,7 +3,7 @@ layout: page
 title: Trabajos Profesionales
 ---
 
-* **Role Playing Learn**: Plataforma virtual para aprender a programar. Tiene como fin mejorar la interacción entre los alumnos y los profesores durante los primeros años de cualquier carrera afín a la informática. Los profesores a través de esta herramienta pueden realizar un seguimiento y obtener estadísticas de las actividades de programación asignadas a sus alumnos. Asimismo, la plataforma permite verificar el correcto funcionamiento de esas actividades mediante la ejecución de pruebas automatizadas.  
+* **Role Play Learn**: Plataforma virtual para aprender a programar. Tiene como fin mejorar la interacción entre los alumnos y los profesores durante los primeros años de cualquier carrera afín a la informática. Los profesores a través de esta herramienta pueden realizar un seguimiento y obtener estadísticas de las actividades de programación asignadas a sus alumnos. Asimismo, la plataforma permite verificar el correcto funcionamiento de esas actividades mediante la ejecución de pruebas automatizadas.  
 Autores: Alonso Juan Manuel, Desseno Carlos, Lew Kevin Martín.   
 **Finalizado**  
 [informe](/proyectos/RolePlayLearn/roleplayinglearn.pdf)  
