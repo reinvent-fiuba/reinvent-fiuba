@@ -19,6 +19,6 @@ Trabajo de investigación realizado en el ámbito del Grupo de Investigaciones e
 
 El objetivo del presente trabajo es desarrollar una plataforma automatizada, altamente customizable y temática para la enseñanza de nivel superior y para adultos mediante la utilización de las TICs, aplicadas a distintas disciplinas académicas.
 
-  [RolePlayLearn](http://rpl.algoritmos7540mendez.tk/)
+  [RolePlayLearn](http://rpl.algoritmos7540mendez.com.ar/web-app/#!/login)
 
 Este trajo tiene futuras lineas de investigación abiertas en REINVENT-fiuba (Grupo de Inertigación en Ciencias Informáticas), contactanos!!!!. 
