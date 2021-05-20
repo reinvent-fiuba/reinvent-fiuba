@@ -3,7 +3,7 @@ layout: page
 title: Integrantes
 permalink: /Integrantes/
 ---
-* Director: Dr. Mariano Méndez <marianomendez@gmail.com>   
+* Director: Dr. Mariano Méndez <marianomendez@fi.uba.ar>   
   _Profesor Adjunto Facultad de Ingeniería de la Universidad de Buenos Aires._    
 
 * Ing. Pablo A. Deymonnaz.  
