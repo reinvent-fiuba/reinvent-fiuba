@@ -26,6 +26,4 @@ No necesitás usar bata blanca, tener un C.I. 220 ...  No fijamos límites de ed
 Todo aquel que desee participar puede hacerlo mandando un mail a **marianomendez@fi.uba.ar**
 
 
-
-  
-[CSCE'19 - The 2019 World Congress in Computer Science, Computer Engineering & Applied Computing.](https://www.americancse.org/events/csce2019])  
+ 
