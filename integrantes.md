@@ -7,7 +7,7 @@ permalink: /Integrantes/
   _Profesor Adjunto Facultad de Ingeniería de la Universidad de Buenos Aires._    
 
 * Ing. Pablo A. Deymonnaz.  
-  _Jefe de Trabajos Prácticos Facultad de Ingeniería Universidad de Buenos Aires_ 
+  _Profesor Adjunto Facultad de Ingeniería de la Universidad de Buenos Aires._ 
 
 * Lic. Manuel Camejo <mcamejo@fi.uba.ar>   
   _Jefe de Trabajos Prácticos de la Facultad de Ingeniería de la Universidad de Buenos Aires_    
@@ -26,14 +26,4 @@ permalink: /Integrantes/
 
 * Lucas Pandolfo.  
   _Ayudante de Segunda de la Facultad de Ingeniería de la Universidad de Buenos Aires._
-  _Estudiante de Ingeniería Informática._   
-
-* Ing. Adrián Martín Durán.  
-  _Ayudante de Segunda de la Facultad de Ingeniería de la Universidad de Buenos Aires._  
-
-* Ing. Daniel Andrés Obon. _Estudiante de Ingeniería Informática._  
-
-* Natalia Giselle Bartolomé. _Estudiante de Ingeniería Informática._   
-
-* Ezequiel Pérez Dittler.
-  _Estudiante de Ingeniería Informática_  
+  _Estudiante de Ingeniería Informática._  
